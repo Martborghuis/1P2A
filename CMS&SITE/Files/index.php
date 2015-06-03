@@ -17,6 +17,6 @@
 		<p id="slideshowkopje">Bekijk onze galerij!</p>
 		<a href="galerij.php"><img src="plaatjes.jpg" id="mijnPlaatje"></a>
 	</div>
-	
+	<p> KUTJES </p>
 </body>
 </html>
